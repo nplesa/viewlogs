@@ -1,0 +1,23 @@
+{
+    "name": "nplesa/viewlogs",
+    "description": "Laravel 12 package with Livewire to view activity logs.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nplesa\\ViewLogs\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Nplesa\\ViewLogs\\ViewLogsServiceProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^12.0",
+        "livewire/livewire": "^3.0"
+    }
+}
