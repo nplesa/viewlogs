@@ -1,8 +1,8 @@
 <?php
 
-namespace Nplesa\\ViewLogs;
+namespace nplesa\ViewLogs;
 
-use Illuminate\\Support\\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
 class ViewLogsServiceProvider extends ServiceProvider
 {
