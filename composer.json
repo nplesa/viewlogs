@@ -5,13 +5,13 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Nplesa\\ViewLogs\\": "src/"
+            "nplesa\\ViewLogs\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nplesa\\ViewLogs\\ViewLogsServiceProvider"
+                "nplesa\\ViewLogs\\ViewLogsServiceProvider"
             ]
         }
     },
