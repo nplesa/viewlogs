@@ -2,6 +2,10 @@
     "name": "nplesa/viewlogs",
     "description": "Laravel 12 package with Livewire to view activity logs.",
     "type": "library",
+    "author" : {
+        "name" : "Nicolae Plesa",
+        "email" : "nicu.plesa@gmail.com"
+    },
     "license": "MIT",
     "autoload": {
         "psr-4": {
