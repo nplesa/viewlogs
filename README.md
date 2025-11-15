@@ -1,4 +1,4 @@
-# ViewLogs
+# nplesa/viewlogs
 
 Laravel 12 package with Livewire to view all activity logs recorded by the ActivityLog package.
 
